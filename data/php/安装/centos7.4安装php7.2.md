@@ -84,3 +84,10 @@ php -v
    将/usr/local/php/etc下的以.default结尾的复制一份，去掉default后缀
 
    将/usr/local/php/etc/php-fpm.d/下的文件以同样的方式处理
+
+10. 启动php-fpm
+
+```
+php-fpm
+```
+
