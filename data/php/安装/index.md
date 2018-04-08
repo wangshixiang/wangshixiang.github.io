@@ -1,1 +1,1 @@
-<br/>[<<](?name=php/index)<br/>[php/安装/centos7.4安装php7.2](?name=php/安装/centos7.4安装php7.2)
+<br/>[<<](?name=php/index)<br/>[php/安装/centos7.4安装php7.2](?name=php/安装/centos7.4安装php7.2)<br/>[php/安装/nginx配置以支持php](?name=php/安装/nginx配置以支持php)
